@@ -31,3 +31,4 @@
 *.out
 *.app
 data/measurements.txt
+output.txt
